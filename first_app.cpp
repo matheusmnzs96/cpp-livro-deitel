@@ -10,7 +10,7 @@
 
 using namespace std; // habilita o uso dos recursos de entrada/saída da biblioteca iostream
 
-// função inicia a execução do programa
+// função inicia a execução do programa.
 int main(){
 	
 	string nome; // declarando variavel do tipo string

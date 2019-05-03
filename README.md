@@ -1,1 +1,1 @@
-Repositório contendo códigos fontes do livro de programação C++ Como Programar 5 edição - Deitel
+Repositório contendo códigos fontes dos projetos do livro de programação C++ - Como Programar 5 edição - Deitel
